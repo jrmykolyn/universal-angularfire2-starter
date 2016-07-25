@@ -1,3 +1,7 @@
+# universal-angularfire2
+Angular2-universal-angularfire2-webpack
+
+Integrating Angularfire2 on webpack with angular-universal project https://github.com/angular/universal-starter
 
 ## Installation
 
@@ -14,8 +18,4 @@
 ## Watch files
 * `npm run watch` to build your client app and start a web server
 
-# universal-angularfire2
-Angular2-universal-angularfire2-webpack
-
-Integrating Angularfire2 on webpack with angular-universal project https://github.com/angular/universal-starter
 
